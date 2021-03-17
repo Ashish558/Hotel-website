@@ -21,6 +21,7 @@ background:black;
 flex:1;
 background:transparent;
 color:white;
+transform:translateX(0%);
 }
 .nav-header nav .lists li{
 font-size:1.5rem;
