@@ -532,13 +532,14 @@ color:#272b2e;
   transform:scaleX(0);
 }
 
-/*BOOK NOW*/
 
-[data-aos="ball-aos"] {
+[data-aos="img-aos"] {
+  transform:translateY(20%);
   opacity:0;
-  transition-property: opacity;
+  transition-property: transform, opacity;
 }
 
-[data-aos="ball-aos"].aos-animate {
+[data-aos="img-aos"].aos-animate {
+  transform:translateY(-10%);
   opacity:1;
 }
