@@ -1,3 +1,5 @@
 # Hotel-website
 A simple hotel website
-Link https://thirsty-wing-7bd504.netlify.app
+
+Link :
+https://thirsty-wing-7bd504.netlify.app
