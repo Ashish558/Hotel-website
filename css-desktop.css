@@ -175,6 +175,13 @@ justify-content:space-around;
  margin-right:auto;
  max-width:800px;
 }
+.hero .title-main{
+font-size:6rem;
+}
 
+.hero .title-top,
+.hero .title-bottom{
+font-size:3rem;
+}
 
 }
