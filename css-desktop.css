@@ -1,5 +1,5 @@
 
-@media screen and (min-width: 700px){
+@media screen and (min-width: 768px){
 :root{
 --margin-dktp:2rem;
 
@@ -75,7 +75,9 @@ display:flex;
 flex-direction:column;
 justify-content:space-around;
 align-items:flex-start;
-font-size:1reml;
+font-size:1rem;
+
+
 }
 .services .first-service{
 margin-top:8rem;
@@ -160,5 +162,14 @@ display:flex;
 justify-content:space-around;
 
 }
+}
+
+@media screen and (min-width: 992px){
+.services .service .content{
+ margin-left:auto;
+ margin-right:auto;
+ max-width:500px;
+}
+
 
 }
